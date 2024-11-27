@@ -20,7 +20,7 @@ $ git clone https://github.com/sirly82/circle-move-turtle-with-ros.git
 # Replace The File
 ```
 $ cd circle-move-turtle-with-ros
-$ mv circle_turtle.py ..
+$ mv circle_turtle.py scripts
 $ cd ..
 ```
 
