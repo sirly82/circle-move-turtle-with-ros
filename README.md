@@ -29,7 +29,7 @@ $ cd ..
 $ chmod +x scripts/circle_turtle.py
 ```
 # Before Runing The Program BELOW
-Open other terminal first, run this code
+Open other terminal, run this code:
 ```
 $ roscore
 ```
